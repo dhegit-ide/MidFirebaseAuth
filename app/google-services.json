@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808827148985",
+    "project_id": "midfirebaseauth",
+    "storage_bucket": "midfirebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808827148985:android:1cb07d3270913386631968",
+        "android_client_info": {
+          "package_name": "com.dhegit.midfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808827148985-3mdf1p5tb9da1eiap7os6eh3bgqg2hef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhegit.midfirebaseauth",
+            "certificate_hash": "b236bc206c497fb2e6167c021bc564ba82998b4d"
+          }
+        },
+        {
+          "client_id": "808827148985-rep2n2talt89apbg2fld8os35k1a2n4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnr3b-a9M9WJwNGhtrUgNe94cXxtzbFjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808827148985-rep2n2talt89apbg2fld8os35k1a2n4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
